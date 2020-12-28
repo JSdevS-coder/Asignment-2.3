@@ -219,23 +219,5 @@ th {
     width: 60px;
   }
   
-  th {
-    background-color: rgb(102, 150, 255);
-  }
   
-  .first {
-   background-color: rgb(153, 185, 255);
-  }
-  
-  .second {
-   background-color: rgb(179, 203, 255);
-  }
-  
-  .third {
-   background-color: rgb(204, 220, 255);
-  }
-  
-  .forth {
-    background-color: rgb(230, 238, 255);
-  }
 }
